@@ -1,0 +1,13 @@
+C:\Users\Luka_ry90\source\repos\TasksLesson\TasksLesson\bin\Debug\netcoreapp3.1\TasksLesson.exe
+C:\Users\Luka_ry90\source\repos\TasksLesson\TasksLesson\bin\Debug\netcoreapp3.1\TasksLesson.deps.json
+C:\Users\Luka_ry90\source\repos\TasksLesson\TasksLesson\bin\Debug\netcoreapp3.1\TasksLesson.runtimeconfig.json
+C:\Users\Luka_ry90\source\repos\TasksLesson\TasksLesson\bin\Debug\netcoreapp3.1\TasksLesson.runtimeconfig.dev.json
+C:\Users\Luka_ry90\source\repos\TasksLesson\TasksLesson\bin\Debug\netcoreapp3.1\TasksLesson.dll
+C:\Users\Luka_ry90\source\repos\TasksLesson\TasksLesson\bin\Debug\netcoreapp3.1\TasksLesson.pdb
+C:\Users\Luka_ry90\source\repos\TasksLesson\TasksLesson\obj\Debug\netcoreapp3.1\TasksLesson.csprojAssemblyReference.cache
+C:\Users\Luka_ry90\source\repos\TasksLesson\TasksLesson\obj\Debug\netcoreapp3.1\TasksLesson.AssemblyInfoInputs.cache
+C:\Users\Luka_ry90\source\repos\TasksLesson\TasksLesson\obj\Debug\netcoreapp3.1\TasksLesson.AssemblyInfo.cs
+C:\Users\Luka_ry90\source\repos\TasksLesson\TasksLesson\obj\Debug\netcoreapp3.1\TasksLesson.csproj.CoreCompileInputs.cache
+C:\Users\Luka_ry90\source\repos\TasksLesson\TasksLesson\obj\Debug\netcoreapp3.1\TasksLesson.dll
+C:\Users\Luka_ry90\source\repos\TasksLesson\TasksLesson\obj\Debug\netcoreapp3.1\TasksLesson.pdb
+C:\Users\Luka_ry90\source\repos\TasksLesson\TasksLesson\obj\Debug\netcoreapp3.1\TasksLesson.genruntimeconfig.cache
